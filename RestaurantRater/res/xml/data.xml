@@ -1,0 +1,8 @@
+<resturant>
+    <name value = "Bruxie"/>
+    <phone value= "(714) 633-3900"/>
+    <website value = "http://bruxie.com/"/>
+    <rating value = "3"/>
+    <category value = "American"/>
+    <image value="drawable/image/bruxie.png"/>
+</resturant>
